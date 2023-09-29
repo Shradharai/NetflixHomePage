@@ -52,8 +52,8 @@ nav button{
 .language-btn img{
     width: 50px;
     margin-left: 5px;
-    width: 100px; /* Set the desired width */
-    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    width: 100px; 
+    height: auto; 
 }
 
 .header-content{
